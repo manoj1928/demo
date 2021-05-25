@@ -6,6 +6,6 @@ This is my first Repo
 
 ___
 
-'''
+```
 print('hello world')
-'''
+```
