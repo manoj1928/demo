@@ -13,3 +13,10 @@
 |  Account | [![Account](https://raw.githubusercontent.com/manoj1928/demo/main/images/Accounts.jpeg "Account")](https://raw.githubusercontent.com/manoj1928/demo/main/images/Accounts.jpeg "Account")  |
 | Banking  | [![Banking](https://raw.githubusercontent.com/manoj1928/demo/main/images/banking.jpeg)](https://raw.githubusercontent.com/manoj1928/demo/main/images/banking.jpeg)  |
 | Aerospace  | [![Aerospace](https://raw.githubusercontent.com/manoj1928/demo/main/images/aerospace.jpeg "Aerospace")](https://raw.githubusercontent.com/manoj1928/demo/main/images/aerospace.jpeg "Aerospace")  |
+
+
+```python
+project = ["finance", "account", "banking", "aerospace"]
+for x in project:
+  print(x)
+```
